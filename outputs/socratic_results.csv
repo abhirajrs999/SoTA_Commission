@@ -1,0 +1,23 @@
+segment,rfs,cv_rfs,chosen,chosen_text
+c915f39617f62ec72eda769e337731bd-149,10.0,10.0,A,Maintain
+fa7cf34b3f20b157a601f3d5b72cab7c-149,9.5,9.5,D,Nudge left
+95d5b62454366d5c86c21338889d397b-150,8.0,8.0,A,Maintain
+34c1dae8ea57da92ae7ee1c3bce3ad74-148,10.0,10.0,D,Maintain current speed but prepare to turn right if needed
+a9531d2b707f75a117280553930f312d-149,10.0,10.0,A,Maintain
+64c3f8ce8c99d46f5ef849049cdc1141-148,6.0,6.0,A,Maintain
+7778a955774e2e7fdbc59c4d0cdbe274-149,5.631101566067486,5.2267362351512965,D,Prepare to turn right by slightly moving into the right lane
+d7a1e9029ac7440b1f561e8f0dcf6cf5-149,9.0,9.0,D,Maintain current speed but slightly turn right
+d5a542df464004d76568e3ea694133bf-148,9.6503073564184,9.6503073564184,A,Maintain
+14f0b68cf50bad87e90a490a70109cad-149,5.022710580210773,6.7335913909105845,D,Accelerate cautiously
+1a13b64b69b568c4ccbb572bc3f0257b-147,5.806932735047759,8.0,D,Slightly turn left to explore the left lane
+24b55c263af14dc4ce175fe4c4946e94-150,7.676556694563674,7.724951437104424,D,Slightly turn right to find an open lane
+d6dd84e36f1cf0db4cce7e131385489d-148,10.0,10.0,A,Maintain
+bf5ce21bed408c229595eea25846db55-148,9.283386737720788,9.283386737720788,A,Maintain
+a1a8bf2ad677fe2b594e447affccf186-148,10.0,10.0,D,Maintain current speed but slightly turn left
+01d758be9706c2534b80c2dd3a4234b9-149,6.438029045051017,5.761468232993797,D,Steer slightly right to maintain lane position
+93b2364898ed9f011c8be36992189132-148,6.532612537829652,7.900608184704467,D,Maintain speed but slightly steer right to open up space
+106e85c9ce96a5f81a10717d7cfc8fed-150,7.695272215578619,6.347902210481615,C,Decelerate to maintain a safe distance
+f8c118db32cc16449b2d9cea9c344df4-149,10.0,10.0,A,Maintain
+ed37831e4ccf5f96c8413c818fff2519-148,5.655798567309259,5.655798567309259,A,Maintain
+398703cb3d52176faf9da2a53aac4b69-149,6.663439558576147,6.67825072449933,D,Maintain current speed but slightly steer towards the right lane
+5f0d91d9bebc6af381629682682edcf8-148,7.780820923613437,7.5690717978431,C,Slightly decelerate to ensure safety

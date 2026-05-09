@@ -1,0 +1,7 @@
+system,rfs_mean,rfs_std,n
+Constant velocity baseline (full val n=479),7.003085484123952,2.3847527420209147,479.0
+Constant velocity (sample n=22),8.137821494324411,1.6868041971772303,22.0
+V1: Qwen2.5-VL-7B + kinematic,7.77850026202799,1.9618297217053984,22.0
+V3: V1 + CLIP retrieval,7.778699518209635,1.9618461917440853,22.0
+Socratic Driver (visual counterfactual critique),8.015316750817593,1.7864713583095513,22.0
+"Poutine (fine-tuned, 2025 SoTA — DISQUALIFIED under brief)",7.99,,

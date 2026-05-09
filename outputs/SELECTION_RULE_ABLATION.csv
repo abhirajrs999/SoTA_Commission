@@ -1,0 +1,4 @@
+rule,mean_rfs,wins,ties,loses,comment
+argmax (Socratic Driver as designed),8.015,4,13,5,Critic argmax. Default Socratic.
+threshold_2 (only deviate if margin ≥ 2),8.136,0,21,1,Effectively constant velocity
+A_unless_3plus (deviate only on margin ≥ 3),8.136,0,21,1,Same as above

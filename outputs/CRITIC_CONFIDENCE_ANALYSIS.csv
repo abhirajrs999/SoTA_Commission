@@ -1,0 +1,3 @@
+category,n,avg_critic_margin,avg_rfs_delta
+Wins over V1,6,0.83,1.5
+Losses vs V1,4,1.75,-0.96
